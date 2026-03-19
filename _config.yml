@@ -1,6 +1,5 @@
 # Theme Settings
-# Using the "Cayman-Dark" fork which is optimized for dark mode
-remote_theme: KTibow/cayman-dark
+remote_theme: lewismiddleton/cayman-dark
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
@@ -8,29 +7,23 @@ plugins:
 # Site info
 title: "Mars-Lab"
 description: "RFIC • RFID • Microelectronics • Phased Arrays • Wireless Systems"
-url: "https://marslabbgu.github.io" # Replace with your actual URL
-author: "Mars Lab BGU"
+url: "https://marslabbgu.github.io"
 
 # Appearance
 show_downloads: false
 google_analytics: 
 
-# Navigation (Improvements)
-# Note: Cayman-Dark allows you to toggle light/dark via front-matter
-light_mode: false 
+# Fix for the </p> issue: 
+# We'll set kramdown to be less aggressive with HTML blocks
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  # Removing parse_block_html: true often fixes the stray </p> 
+  # Use markdown="1" in your HTML tags instead if you need it.
 
 # Collections
 collections:
   projects:
     output: true
-    permalink: /projects/:path/
   publications:
     output: true
-    permalink: /publications/:path/
-
-# Rendering
-markdown: kramdown
-highlighter: rouge
-kramdown:
-  input: GFM
-  parse_block_html: true
