@@ -5,6 +5,8 @@
 
 <p align="center">
 <b>RFIC • RFID • Microelectronics • Phased Arrays • Wireless Systems</b>
+<b>Phased Arrays • RFID • Wireless Systems • Microelectronics</b>
+</p>
 </p>
 
 <p align="center">
