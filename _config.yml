@@ -1,3 +1,2 @@
-# ./remote_theme: pages-themes/cayman@v0.20
 # ./_config.yml
 remote_theme: daattali/beautiful-jekyll
