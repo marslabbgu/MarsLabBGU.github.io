@@ -4,8 +4,7 @@
 </h1>
 
 <p align="center">
-<b>Phased Arrays • RFID • Wireless Systems • Microelectronics</b>
-</p>
+<b>Phased Arrays • RFID • Wireless Systems • Microelectronics</b></p>
 
 
 <p align="center">
