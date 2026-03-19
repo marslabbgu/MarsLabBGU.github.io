@@ -1,35 +1,36 @@
 # Theme Settings
-remote_theme: pages-themes/cayman@v0.2.0
+# Using the "Cayman-Dark" fork which is optimized for dark mode
+remote_theme: KTibow/cayman-dark
 plugins:
   - jekyll-remote-theme
+  - jekyll-seo-tag
 
 # Site info
 title: "Mars-Lab"
 description: "RFIC • RFID • Microelectronics • Phased Arrays • Wireless Systems"
+url: "https://marslabbgu.github.io" # Replace with your actual URL
+author: "Mars Lab BGU"
 
 # Appearance
 show_downloads: false
 google_analytics: 
 
-# Navigation
-# Note: Cayman usually handles navigation differently; 
-# ensuring these files exist in your root directory is key.
-header_pages:
-  - index.md
-  - projects.md
-  - publications.md
-
-# Markdown rendering
-markdown: kramdown
-highlighter: rouge
-
-kramdown:
-  input: GFM
-  parse_block_html: true
+# Navigation (Improvements)
+# Note: Cayman-Dark allows you to toggle light/dark via front-matter
+light_mode: false 
 
 # Collections
 collections:
   projects:
     output: true
+    permalink: /projects/:path/
   publications:
     output: true
+    permalink: /publications/:path/
+
+# Rendering
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  parse_block_html: true
