@@ -1,17 +1,19 @@
-# Theme
+# Theme Settings
 remote_theme: pages-themes/cayman@v0.2.0
-# Plugins
 plugins:
   - jekyll-remote-theme
+
 # Site info
 title: "Mars-Lab"
 description: "RFIC • RFID • Microelectronics • Phased Arrays • Wireless Systems"
+
 # Appearance
 show_downloads: false
-
-# Custom styling (important)
 google_analytics: 
-# Navigation 
+
+# Navigation
+# Note: Cayman usually handles navigation differently; 
+# ensuring these files exist in your root directory is key.
 header_pages:
   - index.md
   - projects.md
@@ -21,12 +23,11 @@ header_pages:
 markdown: kramdown
 highlighter: rouge
 
-# Enable HTML inside markdown 
 kramdown:
   input: GFM
   parse_block_html: true
 
-# Collections 
+# Collections
 collections:
   projects:
     output: true
