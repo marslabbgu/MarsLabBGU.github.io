@@ -32,55 +32,76 @@
 ---
 
 <!-- ABOUT -->
-<h2 align="center">ABOUT</h2>
+<h2 align="center">🧠 About</h2>
 
 <p align="center">
-Advanced RF & Microelectronics research lab focused on interaction between
-integrated circuits, antennas, and electromagnetic environments.
+Microelectronic Arrays & RF Systems Lab focused on next-generation hardware systems,<br>
+combining RFIC, antennas, and intelligent signal interaction with the physical world.
 </p>
 
 ---
 
-<!-- RESEARCH -->
-<h2 align="center">RESEARCH AREAS</h2>
+<!-- RESEARCH AREAS -->
+<h2 align="center">🔬 Research Areas</h2>
 
 <p align="center">
 
 📡 <b>Phased Arrays & Beamforming</b><br>
+Flexible, scalable antenna arrays and dynamic beam control<br><br>
+
 ⚡ <b>Wireless Power Transfer</b><br>
-🔬 <b>RFIC / CMOS Circuits</b><br>
-🧠 <b>Signal Processing</b><br>
-🧩 <b>Large-Scale Electronic Systems</b>
+Efficient energy transmission using coherent RF systems<br><br>
+
+🔬 <b>RFIC & CMOS Circuits</b><br>
+High-frequency integrated circuits interacting with real-world signals<br><br>
+
+🧩 <b>Flexible & Lightweight Electronics</b><br>
+Deployable and shape-changing electronic systems<br><br>
+
+🌐 <b>Large-Scale Microelectronic Systems</b><br>
+Distributed sensing, communication, and computation arrays
 
 </p>
 
 ---
 
 <!-- PROJECTS -->
-<h2 align="center">PROJECTS</h2>
+<h2 align="center">🚀 Projects</h2>
 
 <p align="center">
-RFID Systems • RF Front-End • Antennas • Amplifiers • AI Signal Processing
+
+🔹 RFID Systems & Smart Tags  
+🔹 RF Front-End Design  
+🔹 Antenna Simulation & Optimization  
+🔹 High-Frequency Signal Processing  
+🔹 Embedded RF Systems  
+
 </p>
 
 ---
 
-<!-- PUBLICATIONS -->
-<h2 align="center">PUBLICATIONS</h2>
+<!-- TECH STACK -->
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
+Cadence • HFSS • CST • MATLAB • Python • SPICE • Altium
+</p>
 
-📄 <b>Paper Title 1</b> — IEEE Journal<br>
-📄 <b>Paper Title 2</b> — Conference<br>
-📄 <b>Paper Title 3</b> — Journal<br>
+---
 
+<!-- STATS -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
 
 <!-- FOOTER -->
-<h2 align="center">CONTACT</h2>
+<h2 align="center">📫 Contact</h2>
 
 <p align="center">
-Ben-Gurion University of the Negev
+📍 Ben-Gurion University of the Negev<br>
+✉️ your@email.com
 </p>
