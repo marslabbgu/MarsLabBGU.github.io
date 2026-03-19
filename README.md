@@ -65,32 +65,65 @@ Distributed sensing, communication, and computation arrays
 
 ---
 
+<!-- ================================================= -->
 <!-- PROJECTS -->
-<h2 align="center">🚀 Projects</h2>
+<!-- ================================================= -->
+
+<h2 align="center" style="color:#00F7FF;">PROJECTS</h2>
 
 <p align="center">
 
-🔹 RFID Systems & Smart Tags  
-🔹 RF Front-End Design  
-🔹 Antenna Simulation & Optimization  
-🔹 High-Frequency Signal Processing  
-🔹 Embedded RF Systems  
+🔹 RFID Systems  
+🔹 RF Front-End  
+🔹 Antenna Optimization  
+🔹 RF Amplifiers  
+🔹 AI Signal Processing  
 
 </p>
 
 ---
 
+<!-- ================================================= -->
+<!-- PUBLICATIONS -->
+<!-- ================================================= -->
+
+<h2 align="center" style="color:#FF00FF;">PUBLICATIONS</h2>
+
+<p align="center">
+
+📄 <b>Flexible Phased Array Systems for Wireless Applications</b><br>
+<i>IEEE Transactions on Microwave Theory and Techniques</i><br><br>
+
+📄 <b>RF Energy Transfer Using Distributed Antenna Arrays</b><br>
+<i>IEEE Wireless Power Conference</i><br><br>
+
+📄 <b>CMOS RFIC Design for Adaptive Communication Systems</b><br>
+<i>IEEE Journal of Solid-State Circuits</i><br><br>
+
+📄 <b>Large-Scale Microelectronic Arrays for Sensing & Communication</b><br>
+<i>Advanced Electronic Materials</i>
+
+</p>
+
+---
+
+<!-- ================================================= -->
 <!-- TECH STACK -->
-<h2 align="center">🛠️ Tech Stack</h2>
+<!-- ================================================= -->
+
+<h2 align="center" style="color:#00F7FF;">TECH STACK</h2>
 
 <p align="center">
-Cadence • HFSS • CST • MATLAB • Python • SPICE • Altium
+Cadence • HFSS • CST • MATLAB • Python • SPICE • ADS • Altium
 </p>
 
 ---
 
+<!-- ================================================= -->
 <!-- STATS -->
-<h2 align="center">📊 GitHub Stats</h2>
+<!-- ================================================= -->
+
+<h2 align="center" style="color:#FF00FF;">ACTIVITY</h2>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
@@ -98,10 +131,13 @@ Cadence • HFSS • CST • MATLAB • Python • SPICE • Altium
 
 ---
 
+<!-- ================================================= -->
 <!-- FOOTER -->
-<h2 align="center">📫 Contact</h2>
+<!-- ================================================= -->
+
+<h2 align="center" style="color:#00F7FF;">CONTACT</h2>
 
 <p align="center">
-📍 Ben-Gurion University of the Negev<br>
-✉️ your@email.com
+Ben-Gurion University of the Negev<br>
+RF & Microelectronics Lab
 </p>
