@@ -1,21 +1,17 @@
 # Theme
 remote_theme: pages-themes/cayman@v0.2.0
-
 # Plugins
 plugins:
   - jekyll-remote-theme
-
 # Site info
 title: "Mars-Lab"
 description: "RFIC • RFID • Microelectronics • Phased Arrays • Wireless Systems"
-
 # Appearance
 show_downloads: false
 
 # Custom styling (important)
-google_analytics: # вставь если нужно
-
-# Navigation (если будешь делать страницы)
+google_analytics: 
+# Navigation 
 header_pages:
   - index.md
   - projects.md
@@ -25,12 +21,12 @@ header_pages:
 markdown: kramdown
 highlighter: rouge
 
-# Enable HTML inside markdown (ВАЖНО для твоего дизайна)
+# Enable HTML inside markdown 
 kramdown:
   input: GFM
   parse_block_html: true
 
-# Collections (если захочешь структурировать проекты)
+# Collections 
 collections:
   projects:
     output: true
