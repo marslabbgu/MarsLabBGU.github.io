@@ -6,7 +6,6 @@
 <p align="center">
 <b>Phased Arrays • RFID • Wireless Systems • Microelectronics</b></p>
 
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?color=00CFFF&size=24&center=true&vCenter=true&width=600&lines=RFIC+Design;RFID+Systems;Phased+Arrays;Wireless+Power;Microelectronics"/>
 </p>
