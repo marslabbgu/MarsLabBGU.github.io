@@ -4,18 +4,12 @@
 </h1>
 
 <p align="center">
-<b>RFIC • RFID • Microelectronics • Phased Arrays • Wireless Systems</b></p>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00CFFF&size=24&center=true&vCenter=true&width=600&lines=RFIC+Design;RFID+Systems;Phased+Arrays;Wireless+Power;Microelectronics"/>
+<img src="https://readme-typing-svg.herokuapp.com/?color=417DF7&size=24&center=true&vCenter=true&width=600&lines=RFIC+Design;RFID+Systems;Phased+Arrays;Wireless+Power;Microelectronics"/>
 </p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oi&pause=1000&color=417DF7&width=435&lines=RFIC+Design;RFID+Systems;Phased+Arrays;Wireless+Power;Microelectronics)](https://git.io/typing-svg)
 ---
-
-<!-- CLEAN WAVEFORM -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=40&section=header"/>
-</p>
-
+![Ring Resonator](/img/research.png)
 ---
 
 <!-- BADGES -->
