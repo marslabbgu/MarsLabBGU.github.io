@@ -88,7 +88,7 @@ Distributed sensing, communication, and computation arrays
 
 <p align="center">
 
-🔬 <b><a href="https://github.com/marslabbgu/MarsLabBGU.github.io/blob/main/Experiments/ring-resonator.md" style="color:#00CFFF;">
+🔬 <b><a href="https://marslabbgu.github.io/Experiments/ring-resonator" style="color:#00CFFF;">
 Determining Dielectric Constant of Material Using Ring Resonator
 </a></b><br>
 <i>Resonance-based permittivity extraction using RF structures</i><br><br>
