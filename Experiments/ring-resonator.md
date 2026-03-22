@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">
-<span style="color:#00CFFF;">MARS</span>-<span style="color:#FF2D95;">LAB</span>
+<span style="color:#00CFFF;">MARS</span>-<span style="color:#FF2D95;">Ring</span>
 </h1>
 
 <p align="center">
