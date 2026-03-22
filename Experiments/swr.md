@@ -106,10 +106,10 @@ VSWR = V<sub>max</sub> / V<sub>min</sub>
 ![Setup](../img/SWR_Setup.png)
 
 ### 🔸 Standing Wave Pattern
-![Standing Waves](../img/SWR_wave_pattern.png)
+![Standing Waves](../img/VSWR.gif)
 
 ### 🔸 Smith Chart Analysis
-![Smith Chart](../img/SWR_smith_chart.png)
+![Smith Chart](../img/Smith_small.jpg)
 
 ---
 
