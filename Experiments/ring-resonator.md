@@ -1,8 +1,7 @@
 
 <h1 align="center">
-<span style="color:#00CFFF;">🧪 Determining Dielectric Constant Using a Microstrip Ring Resonator</span><span style="color:#FF2D95;"></span>
+<span style="color:#00CFFF;">Determining Dielectric Constant Using a Microstrip Ring Resonator</span><span style="color:#FF2D95;"></span>
 </h1>
----
 
 ## 🔹 Overview
 This experiment demonstrates a practical RF method for extracting the **dielectric constant (εr)** of a substrate and unknown materials using a **microstrip ring resonator**.
