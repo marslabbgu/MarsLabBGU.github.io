@@ -81,6 +81,28 @@ Distributed sensing, communication, and computation arrays
 ---
 
 <!-- ================================================= -->
+<!-- TEACHING LAB EXPERIMENTS -->
+<!-- ================================================= -->
+
+<h2 align="center" style="color:#00F7FF;">🧪 TEACHING LAB EXPERIMENTS</h2>
+
+<p align="center">
+
+🔬 <b><a href="https://your-username.github.io/your-repo/experiments/ring-resonator.html" style="color:#00CFFF;">
+Determining Dielectric Constant of Material by Ring Resonator
+</a></b><br>
+<i>Resonance-based permittivity extraction using RF structures</i><br><br>
+
+📡 <b><a href="https://your-username.github.io/your-repo/experiments/swr.html" style="color:#FF2D95;">
+SWR – Standing Wave Ratio
+</a></b><br>
+<i>Transmission line mismatch analysis and reflection measurement</i>
+
+</p>
+
+---
+
+<!-- ================================================= -->
 <!-- PUBLICATIONS -->
 <!-- ================================================= -->
 
