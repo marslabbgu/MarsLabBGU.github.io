@@ -93,7 +93,7 @@ Determining Dielectric Constant of Material Using Ring Resonator
 </a></b><br>
 <i>Resonance-based permittivity extraction using RF structures</i><br><br>
 
-📡 <b><a href="https://github.com/marslabbgu/MarsLabBGU.github.io/blob/main/Experiments/swr.md" style="color:#FF2D95;">
+📡 <b><a href="https://marslabbgu.github.io/Experiments/swr" style="color:#FF2D95;">
 SWR – Standing Wave Ratio
 </a></b><br>
 <i>Transmission line mismatch analysis and reflection measurement • 🟡 In Progress</i>
