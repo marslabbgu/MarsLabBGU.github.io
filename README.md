@@ -89,7 +89,7 @@ Distributed sensing, communication, and computation arrays
 <p align="center">
 
 🔬 <b><a href="https://your-username.github.io/your-repo/experiments/ring-resonator.html" style="color:#00CFFF;">
-Determining Dielectric Constant of Material by Ring Resonator
+Determining Dielectric Constant of Material Using Ring Resonator
 </a></b><br>
 <i>Resonance-based permittivity extraction using RF structures</i><br><br>
 
