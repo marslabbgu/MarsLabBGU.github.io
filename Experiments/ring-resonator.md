@@ -79,19 +79,13 @@ A ring resonator exhibits resonance when its circumference equals an integer mul
 ## 📷 Experiment Images
 
 ### 🔸 Ring Resonator Design
-![Ring Resonator](../assets/images/ring_resonator_design.png)
+![Ring Resonator](../img/ring_resonator_params.png)
 
 ### 🔸 Fabricated PCB
-![PCB](../assets/images/ring_resonator_pcb.jpg)
-
-### 🔸 Measurement Setup (VNA)
-![Setup](../assets/images/ring_resonator_setup.jpg)
-
-### 🔸 S-Parameters (S11 / S21)
-![S-Parameters](../assets/images/ring_resonator_sparams.png)
+![PCB](../img/Ring.jpg)
 
 ### 🔸 Material Under Test
-![Material](../assets/images/ring_resonator_material.jpg)
+![Material](../img/Ring+Material.jpg)
 
 ---
 
