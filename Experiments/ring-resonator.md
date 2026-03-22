@@ -1,6 +1,7 @@
 
-# 🧪 Determining Dielectric Constant Using a Microstrip Ring Resonator
-
+<h1 align="center">
+<span style="color:#00CFFF;">🧪 Determining Dielectric Constant Using a Microstrip Ring Resonator</span><span style="color:#FF2D95;"></span>
+</h1>
 ---
 
 ## 🔹 Overview
