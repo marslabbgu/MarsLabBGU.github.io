@@ -1,162 +1,104 @@
-<!-- HEADER -->
-<h1 align="center">
-<span style="color:#00CFFF;">MARS</span>-<span style="color:#FF2D95;">Ring</span>
-</h1>
 
-<p align="center">
-<b>RFIC • RFID • Microelectronics • Phased Arrays • Wireless Systems</b></p>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00CFFF&size=24&center=true&vCenter=true&width=600&lines=RFIC+Design;RFID+Systems;Phased+Arrays;Wireless+Power;Microelectronics"/>
-</p>
+# 🧪 Determining Dielectric Constant Using a Microstrip Ring Resonator
 
 ---
 
-<!-- CLEAN WAVEFORM -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=40&section=header"/>
-</p>
+## 🔹 Overview
+This experiment demonstrates a practical RF method for extracting the **dielectric constant (εr)** of a substrate and unknown materials using a **microstrip ring resonator**.
+
+The approach is based on measuring **resonant frequency shifts** caused by the presence of a material under test (MUT).
 
 ---
 
-<!-- BADGES -->
-<p align="center">
-<img src="https://img.shields.io/badge/RFIC-Design-0A2540?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RFID-Systems-1B3A4B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Phased-Arrays-274C77?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Wireless-Power-33415C?style=for-the-badge"/>
-</p>
+## 🔹 Objectives
+- Design a microstrip ring resonator (simulation: HFSS / CST)  
+- Measure resonant frequencies and **quality factor (Q)**  
+- Extract **effective dielectric constant (εeff)**  
+- Determine **dielectric constant (εr)** of unknown materials  
 
 ---
 
-<!-- ABOUT -->
-<h2 align="center">🧠 About</h2>
+## 🔹 Principle of Operation
 
-<p align="center">
-Microelectronic Arrays & RF Systems Lab focused on next-generation hardware systems,<br>
-combining RFIC, antennas, and intelligent signal interaction with the physical world.
-</p>
+A ring resonator exhibits resonance when its circumference equals an integer multiple of the guided wavelength.
 
----
-
-<!-- RESEARCH AREAS -->
-<h2 align="center">🔬 Research Areas</h2>
-
-<p align="center">
-
-📡 <b>Phased Arrays & Beamforming</b><br>
-Flexible, scalable antenna arrays and dynamic beam control<br><br>
-
-⚡ <b>Wireless Power Transfer</b><br>
-Efficient energy transmission using coherent RF systems<br><br>
-
-🔬 <b>RFIC & CMOS Circuits</b><br>
-High-frequency integrated circuits interacting with real-world signals<br><br>
-
-🧩 <b>Flexible & Lightweight Electronics</b><br>
-Deployable and shape-changing electronic systems<br><br>
-
-🌐 <b>Large-Scale Microelectronic Systems</b><br>
-Distributed sensing, communication, and computation arrays
-
-</p>
+- Resonant frequency depends on geometry and dielectric properties  
+- Adding a material changes the electromagnetic field distribution  
+- → Causes a measurable **frequency shift**
 
 ---
 
-<!-- ================================================= -->
-<!-- PROJECTS -->
-<!-- ================================================= -->
+## 🔹 Experimental Setup
 
-<h2 align="center" style="color:#00F7FF;">PROJECTS</h2>
-
-<p align="center">
-
-🔹 RFID Systems  
-🔹 RF Front-End  
-🔹 Antenna Optimization  
-🔹 RF Amplifiers  
-🔹 AI Signal Processing  
-
-</p>
+- Microstrip ring resonator (PCB)  
+- Vector Network Analyzer (VNA)  
+- RF cables + calibration kit  
+- Material samples (unknown dielectric)  
 
 ---
 
-<!-- ================================================= -->
-<!-- TEACHING LAB EXPERIMENTS -->
-<!-- ================================================= -->
+## 🔹 Procedure
 
-<h2 align="center" style="color:#00F7FF;">🧪 TEACHING LAB EXPERIMENTS</h2>
-
-<p align="center">
-
-🔬 <b><a href="https://github.com/marslabbgu/MarsLabBGU.github.io/blob/main/Experiments/ring-resonator.md" style="color:#00CFFF;">
-Determining Dielectric Constant of Material Using Ring Resonator
-</a></b><br>
-<i>Resonance-based permittivity extraction using RF structures</i><br><br>
-
-📡 <b><a href="https://github.com/marslabbgu/MarsLabBGU.github.io/blob/main/Experiments/swr.md" style="color:#FF2D95;">
-SWR – Standing Wave Ratio
-</a></b><br>
-<i>Transmission line mismatch analysis and reflection measurement • 🟡 In Progress</i>
-
-</p>
+1. Calibrate the VNA  
+2. Measure baseline resonance (no material)  
+3. Place material on top of the resonator  
+4. Measure shifted resonance frequency  
+5. Compute:
+   - Quality factor (Q)  
+   - Effective dielectric constant (εeff)  
+   - Material dielectric constant (εr)  
 
 ---
 
-<!-- ================================================= -->
-<!-- PUBLICATIONS -->
-<!-- ================================================= -->
+## 🔹 Observations
 
-<h2 align="center" style="color:#FF00FF;">PUBLICATIONS</h2>
-
-<p align="center">
-
-📄 <b>Flexible Phased Array Systems for Wireless Applications</b><br>
-<i>IEEE Transactions on Microwave Theory and Techniques</i><br><br>
-
-📄 <b>RF Energy Transfer Using Distributed Antenna Arrays</b><br>
-<i>IEEE Wireless Power Conference</i><br><br>
-
-📄 <b>CMOS RFIC Design for Adaptive Communication Systems</b><br>
-<i>IEEE Journal of Solid-State Circuits</i><br><br>
-
-📄 <b>Large-Scale Microelectronic Arrays for Sensing & Communication</b><br>
-<i>Advanced Electronic Materials</i>
-
-</p>
+- Higher dielectric constant → lower resonant frequency  
+- Stronger field confinement in higher ε materials  
+- Coupling gap affects resonance visibility and Q  
 
 ---
 
-<!-- ================================================= -->
-<!-- TECH STACK -->
-<!-- ================================================= -->
+## 🔹 Results
 
-<h2 align="center" style="color:#00F7FF;">TECH STACK</h2>
-
-<p align="center">
-Cadence • HFSS • CST • MATLAB • Python • SPICE • ADS • Altium
-</p>
+- Extracted εr of substrate  
+- Extracted εr of unknown materials  
+- Comparison:
+  - Theory vs Simulation vs Measurement  
 
 ---
 
-<!-- ================================================= -->
-<!-- STATS -->
-<!-- ================================================= -->
+## 🔹 Applications
 
-<h2 align="center" style="color:#FF00FF;">ACTIVITY</h2>
-
-<p align="center">
-
-</p>
+- RF material characterization  
+- Antenna design  
+- Microwave circuit validation  
+- Wireless system development  
 
 ---
 
-<!-- ================================================= -->
-<!-- FOOTER -->
-<!-- ================================================= -->
+## 📷 Experiment Images
 
-<h2 align="center" style="color:#00F7FF;">CONTACT</h2>
+### 🔸 Ring Resonator Design
+![Ring Resonator](../assets/images/ring_resonator_design.png)
 
-<p align="center">
-Ben-Gurion University of the Negev<br>
-RF & Microelectronics Lab
-</p>
+### 🔸 Fabricated PCB
+![PCB](../assets/images/ring_resonator_pcb.jpg)
+
+### 🔸 Measurement Setup (VNA)
+![Setup](../assets/images/ring_resonator_setup.jpg)
+
+### 🔸 S-Parameters (S11 / S21)
+![S-Parameters](../assets/images/ring_resonator_sparams.png)
+
+### 🔸 Material Under Test
+![Material](../assets/images/ring_resonator_material.jpg)
+
+---
+
+## 🧠 Notes
+
+- Accuracy depends on calibration quality  
+- Air gaps between material and resonator introduce errors  
+- Lossy materials reduce Q-factor  
+
+---
