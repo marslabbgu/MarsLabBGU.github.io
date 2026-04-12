@@ -63,7 +63,7 @@ Distributed sensing, communication, and computation arrays
 
 <p align="center">
 
-🔹 RFID Systems  
+🔹 RFIC Systems  
 🔹 RF Front-End  
 🔹 Antenna Optimization  
 🔹 RF Amplifiers  
