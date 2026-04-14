@@ -8,7 +8,7 @@
 </p>
 
 ---
-![research](/img/research.png)
+![research](/img/research.jpg)
 ---
 
 <!-- BADGES -->
