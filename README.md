@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Bitcount+Ink&size=25&pause=100&color=F7244E&width=435&center=true&vCenter=true&width=600&lines=RFIC+Design;RFID+Systems;Phased+Arrays;Wireless+Power;Microelectronics"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Bitcount+Ink&size=25&pause=100&color=F7244E&width=435&center=true&vCenter=true&width=600&lines=RFIC+Design;Phased+Arrays;Wireless+Power;Microelectronics"/>
 </p>
 
 ---
@@ -14,7 +14,6 @@
 <!-- BADGES -->
 <p align="center">
 <img src="https://img.shields.io/badge/RFIC-Design-0A2540?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RFID-Systems-1B3A4B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Phased-Arrays-274C77?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Wireless-Power-33415C?style=for-the-badge"/>
 </p>
