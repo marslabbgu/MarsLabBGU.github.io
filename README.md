@@ -6,12 +6,10 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Bitcount+Ink&size=25&pause=100&color=F7244E&width=435&center=true&vCenter=true&width=600&lines=RFIC+Design;Phased+Arrays;Wireless+Power;Microelectronics"/>
 </p>
-
 ---
 <p align="center">
   <img src="/img/research.png" alt="research" style="max-width:100%;"/>
 </p>
-
 
 <!-- ABOUT -->
 <h2 align="center">🧠 About</h2>
