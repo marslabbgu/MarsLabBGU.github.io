@@ -8,8 +8,8 @@
 </p>
 
 ---
-![research](/img/research.jpg)
----
+![research](/img/research.png)
+
 
 
 <!-- ABOUT -->
