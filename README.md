@@ -8,8 +8,9 @@
 </p>
 
 ---
-![research](/img/research.png)
-
+<p align="center">
+  <img src="/img/research.png" alt="research" style="max-width:100%;"/>
+</p>
 
 
 <!-- ABOUT -->
