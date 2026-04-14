@@ -11,14 +11,6 @@
 ![research](/img/research.jpg)
 ---
 
-<!-- BADGES -->
-<p align="center">
-<img src="https://img.shields.io/badge/RFIC-Design-0A2540?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Phased-Arrays-274C77?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Wireless-Power-33415C?style=for-the-badge"/>
-</p>
-
----
 
 <!-- ABOUT -->
 <h2 align="center">🧠 About</h2>
