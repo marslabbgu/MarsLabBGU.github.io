@@ -8,8 +8,9 @@
 </p>
 
 ---
+<p align="center">
 ![research](/img/research.png)
-
+</p>
 
 
 <!-- ABOUT -->
